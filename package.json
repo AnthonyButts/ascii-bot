@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "discord.js": "^13.5.1",
+    "dotenv": "^11.0.0",
+    "sandbox": "^0.8.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "name": "ascii-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
